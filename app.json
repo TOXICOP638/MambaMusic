@@ -1,12 +1,12 @@
 {
-    "name": "Lipps Music Bot",
+    "name": "Mamba Music Bot",
     "description": "A Telegram Music Player Bot, written in Python with Pyrogram and Py-Tgcalls.",
     "logo": "https://graph.org/file/7f6a403cd9874e6c9c38e.jpg",
     "keywords": [
     "python3",
     "telegram",
     "bot",
-    "Lipps",
+    "Mamba",
     "MusicBot",
     "telegram-bot",
     "pyrogram"
@@ -14,12 +14,12 @@
     "env": {
       "API_ID": {
         "description": "Get this value from https://my.telegram.org",
-        "value": "",
+        "value": "2634874",
         "required": true
       },
       "API_HASH": {
         "description": "Get this value from https://my.telegram.org",
-        "value": "",
+        "value": "a418fd5c4497ca9986f31c314da6f170",
         "required": true
       },
       "BOT_TOKEN": {
@@ -29,7 +29,7 @@
       },
       "MUSIC_BOT_NAME": {
         "description": "A name for your Music Bot. Please don't use ascii characters",
-        "value": "",
+        "value": "MAMBA MUSIC",
         "required": true
       },
       "MONGO_DB_URI": {
@@ -39,7 +39,7 @@
       },
       "OWNER_ID": {
         "description": "The user id of user whom you would like to add as OWNER.",
-        "value": "",
+        "value": "6713994904",
         "required": true
       },
       "START_IMG_URL": {
@@ -49,7 +49,7 @@
       },
       "SUPPORT_CHAT": {
         "description": "Your Telegram Groupl link.",
-        "value": "",
+        "value": "-1002011148049",
         "required": true
       },
       "STRING_SESSION": {
