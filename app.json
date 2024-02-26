@@ -1,7 +1,7 @@
 {
     "name": "Mamba Music Bot",
     "description": "A Telegram Music Player Bot, written in Python with Pyrogram and Py-Tgcalls.",
-    "logo": "https://graph.org/file/7f6a403cd9874e6c9c38e.jpg",
+    "logo": "https://te.legra.ph/file/5b2f2e9e64ca6e84c75d7.jpg",
     "keywords": [
     "python3",
     "telegram",
@@ -14,27 +14,27 @@
     "env": {
       "API_ID": {
         "description": "Get this value from https://my.telegram.org",
-        "value": "2634874",
+        "value": "22245596",
         "required": true
       },
       "API_HASH": {
         "description": "Get this value from https://my.telegram.org",
-        "value": "a418fd5c4497ca9986f31c314da6f170",
+        "value": "d6a94c9059aac82d48e516cde7205b27",
         "required": true
       },
       "BOT_TOKEN": {
         "description": "A Bot's token from Botfather",
-        "value": "",
+        "value": "6967233755:AAEXRC-zJ0O9nFS-Ly5ldg3MTZsKRwQxW6w",
         "required": true
       },
       "MUSIC_BOT_NAME": {
         "description": "A name for your Music Bot. Please don't use ascii characters",
-        "value": "MAMBA MUSIC",
+        "value": "ᴍᴀᴍʙᴀ ᴍᴜꜱɪᴄ",
         "required": true
       },
       "MONGO_DB_URI": {
         "description": "Get a mongodb url from https://cloud.mongodb.com.",
-        "value": "",
+        "value": "mongodb+srv://Black:Mamba@black.pvthko3.mongodb.net/?retryWrites=true&w=majority",
         "required": true
       },
       "OWNER_ID": {
@@ -44,12 +44,12 @@
       },
       "START_IMG_URL": {
         "description": "The Pic Which Will Be show When you Give The /start the bot in private.",
-        "value": "https://graph.org/file/7f6a403cd9874e6c9c38e.jpg",
+        "value": "https://te.legra.ph/file/5b2f2e9e64ca6e84c75d7.jpg",
         "required": true
       },
       "SUPPORT_CHAT": {
-        "description": "Your Telegram Groupl link.",
-        "value": "-1002011148049",
+        "description": "Your Telegram Group link.",
+        "value": "https://t.me/Mamba_Music_Help",
         "required": true
       },
       "STRING_SESSION": {
@@ -69,7 +69,7 @@
       },
       "LOGGER_ID": {
         "description": "Your Log Group ID, add your bot and promote as an admin with full rights!. Not Channel Id .",
-        "value": "",
+        "value": "-1002138809373",
         "required": true
       }
     },
