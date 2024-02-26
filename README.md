@@ -2,7 +2,7 @@
     ʍǟʍɮǟ ʍʊֆɨƈ  ɮօȶ
    </h2>  
  <p align="center">   
-<img src="https://graph.org/file/">   
+<img src="https://te.legra.ph/file/5b2f2e9e64ca6e84c75d7.jpg">   
  </p> ━━━━━━━━━━━━━━━━━━━━ 
  <p align="center"> 
  <a href="https://github.com/FantasticSukhi/MambaMusic /stargazers"><img src="https://img.shields.io/github/stars/FantasticSukhi/MambaMusic ?color=black&logo=github&logoColor=black&style=for-the-badge" alt="Stars" /></a> <a href="https://github.com/FantasticSukhi/MambaMusic /network/members"> <img src="https://img.shields.io/github/forks/FantasticSukhi/MambaMusic?color=black&logo=github&logoColor=black&style=for-the-badge" /></a> 
