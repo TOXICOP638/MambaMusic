@@ -5,7 +5,7 @@
 <img src="https://te.legra.ph/file/5b2f2e9e64ca6e84c75d7.jpg">   
  </p> ━━━━━━━━━━━━━━━━━━━━ 
  <p align="center"> 
- <a href="https://github.com/FantasticSukhi/MambaMusic /stargazers"><img src="https://img.shields.io/github/stars/FantasticSukhi/MambaMusic ?color=black&logo=github&logoColor=black&style=for-the-badge" alt="Stars" /></a> <a href="https://github.com/FantasticSukhi/MambaMusic /network/members"> <img src="https://img.shields.io/github/forks/FantasticSukhi/MambaMusic?color=black&logo=github&logoColor=black&style=for-the-badge" /></a> 
+ <a href="https://github.com/FantasticSukhi/MambaMusic /stargazers"><img src="https://img.shields.io/github/stars/FantasticSukhi/MambaMusic?color=black&logo=github&logoColor=black&style=for-the-badge" alt="Stars" /></a> <a href="https://github.com/FantasticSukhi/MambaMusic/network/members"> <img src="https://img.shields.io/github/forks/FantasticSukhi/MambaMusic?color=black&logo=github&logoColor=black&style=for-the-badge" /></a> 
  <a href="https://www.python.org/"> <img src="https://img.shields.io/badge/Written%20in-Python-skyblue?style=for-the-badge&logo=python" alt="Python" /> </a> 
  </p> 
  ━━━━━━━━━━━━━━━━━━━━
